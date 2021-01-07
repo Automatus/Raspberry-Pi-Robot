@@ -17,3 +17,5 @@ acces Raspberry with ssh
 https://www.raspberrypi.org/documentation/remote-access/ssh/README.md
 
 execute code with python3 Robot.py
+
+Video of the robot in action: https://youtu.be/i-7RHLZvw-4
