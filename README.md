@@ -19,3 +19,5 @@ https://www.raspberrypi.org/documentation/remote-access/ssh/README.md
 execute code with python3 Robot.py
 
 Video of the robot in action: https://youtu.be/i-7RHLZvw-4
+
+![robo](https://user-images.githubusercontent.com/57252435/136673201-b9bfe974-4749-459c-82ed-bbe399642398.png)
